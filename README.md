@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/bodhiproject/bitstash.svg?branch=master)](https://travis-ci.org/bodhiproject/bitstash)
 
 ## Get Bitstash
-Chome Web Store: https://chrome.google.com/webstore/detail/bitstash/hdmjdgjbehedbnjmljikggbmmbnbmlnd
+Chome Web Store: coming soon...
 
 ## Web Dapp Usage
 
